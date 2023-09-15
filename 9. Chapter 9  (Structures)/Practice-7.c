@@ -1,0 +1,1 @@
+// Q.7 write Q5 structure using typedef keyword

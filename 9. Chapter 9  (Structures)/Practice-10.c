@@ -1,0 +1,1 @@
+// Q.10 solve Q9 for time using typedef keyword

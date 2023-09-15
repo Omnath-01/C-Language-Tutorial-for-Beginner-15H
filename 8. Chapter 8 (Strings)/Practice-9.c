@@ -1,0 +1,1 @@
+// Q.9 write a program to check whether a given character is present in a string or not

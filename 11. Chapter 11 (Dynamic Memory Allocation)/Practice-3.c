@@ -1,0 +1,1 @@
+// Q.3 solve Q1 using calloc()

@@ -1,0 +1,8 @@
+ Project 2 :snake , water Gun
+ snake , water gun or rock paper scissors is a game most of us 
+ have played sometimes 
+
+ write a progarm capable this game with now 
+
+ your program should be able to print the result 
+ after you choose snake /water or gun
